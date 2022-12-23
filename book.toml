@@ -1,0 +1,6 @@
+[book]
+authors = ["《程序员》"]
+title = "《程序员》杂志 · 2016 精华本"
+language = "zh"
+multilingual = false
+src = "src"
