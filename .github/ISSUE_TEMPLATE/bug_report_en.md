@@ -1,5 +1,5 @@
 ---
-name: "Bug 报告"
+name: "Bug 报告英文"
 about: "向我们报告你在使用过程中遇到的问题或者 Bug，以便我们改进产品"
 title: "【BUG】:[页面]-[功能模块]-[具体问题]"
 labels: ["BUG"]
